@@ -1,3 +1,3 @@
-# Magangg
+# Magang
 
 membuat repo
